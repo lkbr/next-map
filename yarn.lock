@@ -3714,9 +3714,9 @@ react-proxy@^3.0.0-alpha.0:
   dependencies:
     lodash "^4.6.1"
 
-react-static-google-map@^0.4.1:
-  version "0.4.1"
-  resolved "https://registry.yarnpkg.com/react-static-google-map/-/react-static-google-map-0.4.1.tgz#3b356ae4cedaab00dce862c6fab64dc0e4965ee1"
+react-static-google-map@^0.4.2:
+  version "0.4.2"
+  resolved "https://registry.yarnpkg.com/react-static-google-map/-/react-static-google-map-0.4.2.tgz#9575e587474760d57356faa99c44f84b98673c44"
   dependencies:
     invariant "^2.2.2"
     react ">=0.14.x"
