@@ -4,8 +4,8 @@ import { StaticGoogleMap, Marker } from "react-static-google-map"
 export default () => (
   <div>
     <div>
-      <Link href="/page2">
-        <a>Page 2</a>
+      <Link href="/">
+        <a>Home</a>
       </Link>
     </div>
 
